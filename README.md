@@ -31,7 +31,7 @@ Note: Replace '10.0.0.1', 'admin', 'password', and 'cisco_ios' with the actual I
 
 This is just a basic example. Network automation can get quite complex, depending on the tasks you're looking to perform. But Python, with its extensive libraries and easy syntax, is a great tool for network automation tasks.
 
-Please make sure you have the necessary permissions before attempting to connect or make changes to any network device. Misuse could lead to serious network issues.
+Please make sure you have the necessary permissions before attempting to connect or make changes to any network device. Misuse could lead to SERIOUS network issues.
 
 ---
 
